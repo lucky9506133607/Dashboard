@@ -1,0 +1,334 @@
+iyear,imonth,iday,country,country_txt,region,region_txt,provstate,city,latitude,longitude,attacktype1,attacktype1_txt,targtype1,targtype1_txt,natlty1,natlty1_txt,gname,weaptype1,weaptype1_txt,nkill,propextent,propextent_txt
+2011,1,23,153,Pakistan,6,South Asia,Khyber Pakhtunkhwa,Bara,33.915234,71.458679,3,Bombing/Explosion,2,Government (General),153,Pakistan,Unknown,6,Explosives,0,3,Minor (likely < $1 million)
+2011,1,23,153,Pakistan,6,South Asia,Khyber Pakhtunkhwa,Hangu,33.528893,71.056122,2,Armed Assault,14,Private Citizens & Property,153,Pakistan,Unknown,5,Firearms,3,3,Minor (likely < $1 million)
+2012,5,7,147,Nigeria,11,Sub-Saharan Africa,Kaduna,Zaria,11.08192,7.715956,6,Hostage Taking (Kidnapping),1,Business,147,Nigeria,Unknown,5,Firearms,2,3,Minor (likely < $1 million)
+2012,5,7,4,Afghanistan,6,South Asia,Ghazni,Unknown,33.498229,67.761598,3,Bombing/Explosion,4,Military,422,International,Unknown,6,Explosives,3,3,Minor (likely < $1 million)
+2012,5,7,4,Afghanistan,6,South Asia,Kunduz,Jangal,37.10962,68.953959,3,Bombing/Explosion,3,Police,4,Afghanistan,Taliban,6,Explosives,3,3,Minor (likely < $1 million)
+2013,8,29,167,Russia,9,Eastern Europe,Dagestan,Makhachkala,42.985418,47.450668,2,Armed Assault,3,Police,167,Russia,Unknown,5,Firearms,0,,
+2013,8,29,228,Yemen,10,Middle East & North Africa,Abyan,Lawdar district,13.892411,45.883171,3,Bombing/Explosion,14,Private Citizens & Property,228,Yemen,Unknown,6,Explosives,0,,
+2013,8,29,4,Afghanistan,6,South Asia,Kandahar,Daman district,31.139334,65.76095,3,Bombing/Explosion,4,Military,422,International,Unknown,6,Explosives,0,4,Unknown
+2014,3,2,147,Nigeria,11,Sub-Saharan Africa,Abuja,Abuja,9.066043,7.48143,2,Armed Assault,15,Religious Figures/Institutions,147,Nigeria,Boko Haram,5,Firearms,0,3,Minor (likely < $1 million)
+2014,3,2,153,Pakistan,6,South Asia,Sindh,Wagan,27.499196,67.957579,6,Hostage Taking (Kidnapping),12,NGO,153,Pakistan,Unknown,13,Unknown,0,,
+2014,3,2,229,Democratic Republic of the Congo,11,Sub-Saharan Africa,North Kivu,Beni,0.495944,29.459606,3,Bombing/Explosion,14,Private Citizens & Property,229,Democratic Republic of the Congo,Unknown,6,Explosives,0,,
+2014,3,8,95,Iraq,10,Middle East & North Africa,Saladin,Shirqat,35.499441,43.234894,1,Assassination,14,Private Citizens & Property,95,Iraq,Unknown,5,Firearms,1,3,Minor (likely < $1 million)
+2014,3,8,95,Iraq,10,Middle East & North Africa,Diyala,Satih,33.099591,44.583794,3,Bombing/Explosion,14,Private Citizens & Property,95,Iraq,Unknown,6,Explosives,0,,
+2014,3,8,95,Iraq,10,Middle East & North Africa,Saladin,Masud,33.666193,44.375482,3,Bombing/Explosion,3,Police,95,Iraq,Unknown,6,Explosives,1,,
+2014,3,8,95,Iraq,10,Middle East & North Africa,Saladin,Tuz Khormato,34.881348,44.62513,3,Bombing/Explosion,14,Private Citizens & Property,95,Iraq,Unknown,6,Explosives,0,,
+2014,3,8,95,Iraq,10,Middle East & North Africa,Saladin,Bir Ahmad,34.806469,44.495681,3,Bombing/Explosion,4,Military,95,Iraq,Unknown,6,Explosives,0,,
+2014,3,8,95,Iraq,10,Middle East & North Africa,Saladin,Khadraniyah,35.610632,43.24892,2,Armed Assault,3,Police,95,Iraq,Unknown,5,Firearms,2,,
+2014,3,8,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.303567,44.371771,2,Armed Assault,2,Government (General),95,Iraq,Unknown,5,Firearms,1,,
+2014,3,8,95,Iraq,10,Middle East & North Africa,Saladin,Tikrit,34.621521,43.668375,1,Assassination,2,Government (General),95,Iraq,Islamic State of Iraq and the Levant (ISIL),5,Firearms,1,,
+2014,3,8,95,Iraq,10,Middle East & North Africa,Al Anbar,Fallujah,33.349159,43.784197,2,Armed Assault,4,Military,95,Iraq,Unknown,5,Firearms,4,,
+2014,3,8,95,Iraq,10,Middle East & North Africa,Saladin,Shirqat,35.499441,43.234894,1,Assassination,3,Police,95,Iraq,Unknown,5,Firearms,2,3,Minor (likely < $1 million)
+2014,3,8,95,Iraq,10,Middle East & North Africa,Saladin,Samarra,34.208416,43.890713,2,Armed Assault,3,Police,95,Iraq,Unknown,5,Firearms,5,,
+2014,3,8,4,Afghanistan,6,South Asia,Unknown,Unknown,,,9,Unknown,4,Military,4,Afghanistan,Unknown,13,Unknown,1,,
+2014,3,8,92,India,6,South Asia,Jammu and Kashmir,Kushipora,34.252791,74.349206,1,Assassination,4,Military,92,India,Jaish-e-Mohammad (JeM),6,Explosives,0,3,Minor (likely < $1 million)
+2014,3,8,92,India,6,South Asia,Jammu and Kashmir,Dogri Pora,33.851843,75.043033,2,Armed Assault,2,Government (General),92,India,Hizbul Mujahideen (HM),5,Firearms,1,,
+2014,3,8,41,Central African Republic,11,Sub-Saharan Africa,Bamingui-Bangoran,Ndele,8.411627,20.648757,2,Armed Assault,12,NGO,422,International,Unknown,5,Firearms,1,,
+2014,3,8,603,United Kingdom,8,Western Europe,Northern Ireland,Londonderry,55.011561,-7.312044,3,Bombing/Explosion,14,Private Citizens & Property,166,Romania,Unknown,6,Explosives,0,,
+2014,3,8,603,United Kingdom,8,Western Europe,Northern Ireland,Londonderry,55.011561,-7.312044,3,Bombing/Explosion,14,Private Citizens & Property,166,Romania,Unknown,6,Explosives,0,3,Minor (likely < $1 million)
+2014,3,8,228,Yemen,10,Middle East & North Africa,Abyan,Lawdar,13.887403,45.863649,3,Bombing/Explosion,4,Military,228,Yemen,Al-Qaida in the Arabian Peninsula (AQAP),6,Explosives,6,,
+2014,3,8,155,West Bank and Gaza Strip,10,Middle East & North Africa,Gaza Strip,Rafah,31.29151,34.263803,3,Bombing/Explosion,14,Private Citizens & Property,155,West Bank and Gaza Strip,Unknown,6,Explosives,1,3,Minor (likely < $1 million)
+2014,3,8,153,Pakistan,6,South Asia,Islamabad Capital Territory,Islamabad,33.67164,73.056065,6,Hostage Taking (Kidnapping),12,NGO,153,Pakistan,Unknown,5,Firearms,0,3,Minor (likely < $1 million)
+2014,3,8,60,Egypt,10,Middle East & North Africa,Cairo,Cairo,30.084628,31.334314,3,Bombing/Explosion,19,Transportation,60,Egypt,Unknown,6,Explosives,0,,
+2014,3,8,147,Nigeria,11,Sub-Saharan Africa,Enugu,Enugu,6.447739,7.520526,2,Armed Assault,2,Government (General),147,Nigeria,Biafra Zionist Movement (BZM),5,Firearms,0,,
+2014,3,8,95,Iraq,10,Middle East & North Africa,Saladin,Tikrit,34.621521,43.668375,3,Bombing/Explosion,3,Police,95,Iraq,Islamic State of Iraq and the Levant (ISIL),6,Explosives,0,3,Minor (likely < $1 million)
+2014,3,8,95,Iraq,10,Middle East & North Africa,Saladin,Tikrit,34.621521,43.668375,3,Bombing/Explosion,3,Police,95,Iraq,Islamic State of Iraq and the Levant (ISIL),6,Explosives,0,3,Minor (likely < $1 million)
+2014,3,8,95,Iraq,10,Middle East & North Africa,Saladin,Tikrit,34.621521,43.668375,3,Bombing/Explosion,3,Police,95,Iraq,Islamic State of Iraq and the Levant (ISIL),6,Explosives,0,3,Minor (likely < $1 million)
+2014,3,8,95,Iraq,10,Middle East & North Africa,Saladin,Tikrit,34.621521,43.668375,3,Bombing/Explosion,3,Police,95,Iraq,Islamic State of Iraq and the Levant (ISIL),6,Explosives,0,3,Minor (likely < $1 million)
+2014,3,8,95,Iraq,10,Middle East & North Africa,Saladin,Tikrit,34.621521,43.668375,3,Bombing/Explosion,3,Police,95,Iraq,Islamic State of Iraq and the Levant (ISIL),6,Explosives,0,3,Minor (likely < $1 million)
+2014,3,8,95,Iraq,10,Middle East & North Africa,Saladin,Tikrit,34.621521,43.668375,3,Bombing/Explosion,3,Police,95,Iraq,Islamic State of Iraq and the Levant (ISIL),6,Explosives,0,3,Minor (likely < $1 million)
+2014,3,8,95,Iraq,10,Middle East & North Africa,Saladin,Tikrit,34.621521,43.668375,3,Bombing/Explosion,3,Police,95,Iraq,Islamic State of Iraq and the Levant (ISIL),6,Explosives,0,3,Minor (likely < $1 million)
+2014,3,8,95,Iraq,10,Middle East & North Africa,Saladin,Tikrit,34.621521,43.668375,3,Bombing/Explosion,3,Police,95,Iraq,Islamic State of Iraq and the Levant (ISIL),6,Explosives,0,3,Minor (likely < $1 million)
+2014,3,8,95,Iraq,10,Middle East & North Africa,Saladin,Tikrit,34.621521,43.668375,3,Bombing/Explosion,3,Police,95,Iraq,Islamic State of Iraq and the Levant (ISIL),6,Explosives,0,3,Minor (likely < $1 million)
+2014,3,8,95,Iraq,10,Middle East & North Africa,Saladin,Tikrit,34.621521,43.668375,3,Bombing/Explosion,3,Police,95,Iraq,Islamic State of Iraq and the Levant (ISIL),6,Explosives,0,3,Minor (likely < $1 million)
+2014,3,8,95,Iraq,10,Middle East & North Africa,Saladin,Tikrit,34.621521,43.668375,3,Bombing/Explosion,3,Police,95,Iraq,Islamic State of Iraq and the Levant (ISIL),6,Explosives,0,3,Minor (likely < $1 million)
+2014,3,8,95,Iraq,10,Middle East & North Africa,Saladin,Tikrit,34.621521,43.668375,3,Bombing/Explosion,3,Police,95,Iraq,Islamic State of Iraq and the Levant (ISIL),6,Explosives,0,3,Minor (likely < $1 million)
+2014,3,8,95,Iraq,10,Middle East & North Africa,Saladin,Tikrit,34.621521,43.668375,3,Bombing/Explosion,3,Police,95,Iraq,Islamic State of Iraq and the Levant (ISIL),6,Explosives,0,3,Minor (likely < $1 million)
+2014,3,8,95,Iraq,10,Middle East & North Africa,Saladin,Tikrit,34.621521,43.668375,3,Bombing/Explosion,3,Police,95,Iraq,Islamic State of Iraq and the Levant (ISIL),6,Explosives,0,3,Minor (likely < $1 million)
+2014,3,8,95,Iraq,10,Middle East & North Africa,Al Anbar,Ramadi,33.396174,43.298403,3,Bombing/Explosion,4,Military,95,Iraq,Unknown,6,Explosives,9,,
+2014,3,8,95,Iraq,10,Middle East & North Africa,Saladin,Shirqat,35.421572,43.124565,3,Bombing/Explosion,17,Terrorists/Non-State Militia,95,Iraq,Unknown,6,Explosives,2,,
+2014,3,8,95,Iraq,10,Middle East & North Africa,Al Anbar,Ramadi,33.428037,43.494067,3,Bombing/Explosion,3,Police,95,Iraq,Unknown,6,Explosives,2,,
+2014,3,8,205,Thailand,5,Southeast Asia,Narathiwat,Sungai Kolok,6.013915,101.950235,2,Armed Assault,14,Private Citizens & Property,205,Thailand,Unknown,6,Explosives,0,3,Minor (likely < $1 million)
+2014,3,8,153,Pakistan,6,South Asia,Sindh,Khairpur,27.529637,68.75825,3,Bombing/Explosion,21,Utilities,153,Pakistan,Unknown,6,Explosives,0,,
+2014,3,8,95,Iraq,10,Middle East & North Africa,Diyala,Baqubah,33.743239,44.623824,3,Bombing/Explosion,4,Military,95,Iraq,Unknown,6,Explosives,1,4,Unknown
+2014,7,18,182,Somalia,11,Sub-Saharan Africa,Banaadir,Mogadishu,2.059818,45.326114,2,Armed Assault,4,Military,182,Somalia,Al-Shabaab,5,Firearms,1,,
+2014,7,18,182,Somalia,11,Sub-Saharan Africa,Bay,Toos Weyne,3.107361,43.205842,9,Unknown,3,Police,182,Somalia,Al-Shabaab,13,Unknown,15,,
+2014,7,18,123,Mali,11,Sub-Saharan Africa,Kidal,Kidal,18.442702,1.411332,3,Bombing/Explosion,7,Government (Diplomatic),422,International,Unknown,6,Explosives,0,4,Unknown
+2014,7,18,113,Libya,10,Middle East & North Africa,Tripoli,Tripoli,32.838048,13.182591,3,Bombing/Explosion,1,Business,113,Libya,Unknown,6,Explosives,0,,
+2014,7,18,113,Libya,10,Middle East & North Africa,Tripoli,Tripoli,32.838048,13.182591,3,Bombing/Explosion,3,Police,113,Libya,Unknown,6,Explosives,0,3,Minor (likely < $1 million)
+2014,7,17,113,Libya,10,Middle East & North Africa,Benghazi,Benghazi,32.069287,20.151145,3,Bombing/Explosion,14,Private Citizens & Property,113,Libya,Unknown,6,Explosives,1,3,Minor (likely < $1 million)
+2014,7,17,113,Libya,10,Middle East & North Africa,Tripoli,Tripoli,32.838048,13.182591,3,Bombing/Explosion,20,Unknown,113,Libya,Unknown,6,Explosives,1,,
+2014,7,18,153,Pakistan,6,South Asia,Federally Administered Tribal Areas,Ghundai,33.911742,71.36195,2,Armed Assault,4,Military,153,Pakistan,Tehrik-i-Taliban Pakistan (TTP),6,Explosives,13,4,Unknown
+2014,7,18,153,Pakistan,6,South Asia,Khyber Pakhtunkhwa,Peshawar,34.006004,71.537431,3,Bombing/Explosion,3,Police,153,Pakistan,Tehrik-i-Taliban Pakistan (TTP),6,Explosives,1,3,Minor (likely < $1 million)
+2014,7,18,153,Pakistan,6,South Asia,Khyber Pakhtunkhwa,Peshawar,33.958848,71.528465,2,Armed Assault,3,Police,153,Pakistan,Unknown,5,Firearms,4,3,Minor (likely < $1 million)
+2014,7,18,153,Pakistan,6,South Asia,Khyber Pakhtunkhwa,Hayatabad,33.976307,71.437158,3,Bombing/Explosion,3,Police,153,Pakistan,Unknown,6,Explosives,0,,
+2014,7,18,153,Pakistan,6,South Asia,Khyber Pakhtunkhwa,Masho Khel,33.906777,71.50098,3,Bombing/Explosion,3,Police,153,Pakistan,Unknown,6,Explosives,0,,
+2014,7,18,155,West Bank and Gaza Strip,10,Middle East & North Africa,Gaza Strip,Rafah,31.278791,34.256435,3,Bombing/Explosion,4,Military,97,Israel,Hamas (Islamic Resistance Movement),6,Explosives,0,,
+2014,7,18,228,Yemen,10,Middle East & North Africa,Amran,Iyal Surayh district,15.715656,43.999977,3,Bombing/Explosion,14,Private Citizens & Property,228,Yemen,Unknown,6,Explosives,3,,
+2014,7,18,228,Yemen,10,Middle East & North Africa,Al Bayda,Unknown,14.358866,45.449806,2,Armed Assault,2,Government (General),228,Yemen,Unknown,5,Firearms,0,,
+2014,7,18,228,Yemen,10,Middle East & North Africa,Abyan,Mukayras,13.843297,45.731849,9,Unknown,8,Educational Institution,228,Yemen,Unknown,13,Unknown,0,,
+2014,8,21,153,Pakistan,6,South Asia,Federally Administered Tribal Areas,Mohmand district,34.565494,71.477429,3,Bombing/Explosion,20,Unknown,153,Pakistan,Unknown,6,Explosives,0,,
+2014,8,21,97,Israel,10,Middle East & North Africa,Southern,Nir Oz,31.310932,34.402059,3,Bombing/Explosion,14,Private Citizens & Property,97,Israel,Unknown,6,Explosives,0,3,Minor (likely < $1 million)
+2014,8,21,97,Israel,10,Middle East & North Africa,Southern,Nir Oz,31.310932,34.402059,3,Bombing/Explosion,1,Business,97,Israel,Unknown,6,Explosives,0,3,Minor (likely < $1 million)
+2014,8,21,97,Israel,10,Middle East & North Africa,Southern,Unknown,30.829562,35.038816,3,Bombing/Explosion,20,Unknown,97,Israel,Unknown,6,Explosives,0,,
+2014,8,21,153,Pakistan,6,South Asia,Balochistan,Mastung,29.803965,66.850991,2,Armed Assault,8,Educational Institution,153,Pakistan,Unknown,5,Firearms,1,,
+2014,8,21,4,Afghanistan,6,South Asia,Herat,Herat,34.346721,62.197317,2,Armed Assault,4,Military,4,Afghanistan,Unknown,5,Firearms,2,,
+2015,11,5,200,Syria,10,Middle East & North Africa,Al Hasakah,Unknown,36.612531,40.754509,3,Bombing/Explosion,20,Unknown,,,Islamic State of Iraq and the Levant (ISIL),6,Explosives,0,,
+2015,11,5,160,Philippines,5,Southeast Asia,Surigao del Sur,Santa Juana,8.457594,126.157642,7,Facility/Infrastructure Attack,1,Business,160,Philippines,New People's Army (NPA),8,Incendiary,0,3,Minor (likely < $1 million)
+2015,11,5,96,Ireland,8,Western Europe,Dublin,Dublin,53.290233,-6.138151,3,Bombing/Explosion,20,Unknown,96,Ireland,Unknown,6,Explosives,0,,
+2015,11,5,95,Iraq,10,Middle East & North Africa,Saladin,Taji,33.540671,44.251268,3,Bombing/Explosion,3,Police,95,Iraq,Unknown,6,Explosives,1,,
+2015,11,5,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.303567,44.371771,3,Bombing/Explosion,19,Transportation,95,Iraq,Unknown,6,Explosives,2,3,Minor (likely < $1 million)
+2015,11,5,95,Iraq,10,Middle East & North Africa,Saladin,Siniyah,34.933362,43.412551,3,Bombing/Explosion,3,Police,95,Iraq,Unknown,6,Explosives,6,,
+2015,11,5,95,Iraq,10,Middle East & North Africa,Saladin,Siniyah,34.933362,43.412551,3,Bombing/Explosion,17,Terrorists/Non-State Militia,95,Iraq,Islamic State of Iraq and the Levant (ISIL),6,Explosives,0,,
+2015,11,5,95,Iraq,10,Middle East & North Africa,Al Anbar,Albu Hayat,33.188242,40.042332,3,Bombing/Explosion,20,Unknown,95,Iraq,Unknown,6,Explosives,0,,
+2015,11,5,95,Iraq,10,Middle East & North Africa,Al Anbar,Albu Hayat,33.188242,40.042332,3,Bombing/Explosion,14,Private Citizens & Property,95,Iraq,Unknown,6,Explosives,0,,
+2015,11,5,4,Afghanistan,6,South Asia,Zabul,Jaldak,31.976058,66.685433,2,Armed Assault,3,Police,4,Afghanistan,Taliban,5,Firearms,0,,
+2015,11,5,4,Afghanistan,6,South Asia,Zabul,Kotal,31.803363,66.323613,3,Bombing/Explosion,4,Military,4,Afghanistan,Taliban,6,Explosives,0,4,Unknown
+2015,11,5,228,Yemen,10,Middle East & North Africa,Taizz,Taizz,13.586484,44.024105,3,Bombing/Explosion,14,Private Citizens & Property,228,Yemen,Houthi extremists (Ansar Allah),6,Explosives,2,3,Minor (likely < $1 million)
+2015,11,5,228,Yemen,10,Middle East & North Africa,Taizz,Taizz,13.586484,44.024105,3,Bombing/Explosion,14,Private Citizens & Property,228,Yemen,Houthi extremists (Ansar Allah),6,Explosives,1,,
+2015,11,5,228,Yemen,10,Middle East & North Africa,Taizz,Taizz,13.586484,44.024105,3,Bombing/Explosion,14,Private Citizens & Property,228,Yemen,Houthi extremists (Ansar Allah),6,Explosives,1,,
+2015,11,5,209,Turkey,10,Middle East & North Africa,Diyarbakir,Silvan,38.141225,41.012807,2,Armed Assault,3,Police,209,Turkey,Kurdistan Workers' Party (PKK),5,Firearms,2,,
+2015,11,5,136,Morocco,10,Middle East & North Africa,Grand Casablanca,Casablanca,33.57311,-7.589843,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,136,Morocco,Unknown,9,Melee,0,,
+2015,11,5,182,Somalia,11,Sub-Saharan Africa,Gedo,Bardere,2.349308,42.280336,3,Bombing/Explosion,2,Government (General),182,Somalia,Unknown,6,Explosives,0,3,Minor (likely < $1 million)
+2015,11,5,228,Yemen,10,Middle East & North Africa,Taizz,Taizz,13.586484,44.024105,3,Bombing/Explosion,1,Business,228,Yemen,Houthi extremists (Ansar Allah),6,Explosives,1,,
+2015,11,5,228,Yemen,10,Middle East & North Africa,Taizz,Taizz,13.586484,44.024105,3,Bombing/Explosion,14,Private Citizens & Property,228,Yemen,Houthi extremists (Ansar Allah),6,Explosives,2,,
+2015,11,5,228,Yemen,10,Middle East & North Africa,Taizz,Taizz,13.586484,44.024105,3,Bombing/Explosion,14,Private Citizens & Property,228,Yemen,Houthi extremists (Ansar Allah),6,Explosives,2,,
+2015,11,5,228,Yemen,10,Middle East & North Africa,Taizz,Taizz,13.586484,44.024105,3,Bombing/Explosion,14,Private Citizens & Property,228,Yemen,Houthi extremists (Ansar Allah),6,Explosives,2,,
+2015,11,5,195,Sudan,11,Sub-Saharan Africa,South Darfur,Gereida district,11.278134,25.144449,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,195,Sudan,Unknown,9,Melee,0,,
+2015,11,6,155,West Bank and Gaza Strip,10,Middle East & North Africa,West Bank,Shaar Binyamin,31.865575,35.261645,2,Armed Assault,14,Private Citizens & Property,97,Israel,Al-Aqsa Martyrs Brigade,9,Melee,0,,
+2015,11,6,155,West Bank and Gaza Strip,10,Middle East & North Africa,West Bank,Hebron,31.530243,35.094162,2,Armed Assault,14,Private Citizens & Property,97,Israel,Palestinian Extremists,5,Firearms,0,,
+2015,11,6,155,West Bank and Gaza Strip,10,Middle East & North Africa,West Bank,Beit Einun,31.564108,35.126918,2,Armed Assault,4,Military,97,Israel,Palestinian Extremists,5,Firearms,0,,
+2015,11,6,153,Pakistan,6,South Asia,Balochistan,Tump,26.102882,62.368945,3,Bombing/Explosion,4,Military,153,Pakistan,Lashkar-e-Balochistan,6,Explosives,0,,
+2015,11,6,153,Pakistan,6,South Asia,Balochistan,Quetta,30.20082,66.994352,2,Armed Assault,14,Private Citizens & Property,153,Pakistan,Jaish-e-Islam,5,Firearms,1,,
+2015,11,6,153,Pakistan,6,South Asia,Balochistan,Dastak,26.730322,64.147824,2,Armed Assault,3,Police,153,Pakistan,Unknown,5,Firearms,1,4,Unknown
+2015,11,6,95,Iraq,10,Middle East & North Africa,Diyala,Madain,33.100528,44.584493,3,Bombing/Explosion,14,Private Citizens & Property,95,Iraq,Unknown,6,Explosives,2,,
+2015,11,6,95,Iraq,10,Middle East & North Africa,Saladin,Saba al-Bor,33.460821,44.157432,3,Bombing/Explosion,14,Private Citizens & Property,95,Iraq,Unknown,6,Explosives,2,,
+2015,11,6,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.303567,44.371771,3,Bombing/Explosion,14,Private Citizens & Property,95,Iraq,Unknown,6,Explosives,1,,
+2015,11,6,95,Iraq,10,Middle East & North Africa,Saladin,Tarmiyah,33.66969,44.381316,3,Bombing/Explosion,4,Military,95,Iraq,Islamic State of Iraq and the Levant (ISIL),6,Explosives,1,,
+2015,11,6,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.303567,44.371771,3,Bombing/Explosion,14,Private Citizens & Property,95,Iraq,Unknown,6,Explosives,2,,
+2015,11,6,4,Afghanistan,6,South Asia,Ghazni,Ghazni,33.542623,68.41533,3,Bombing/Explosion,15,Religious Figures/Institutions,4,Afghanistan,Taliban,6,Explosives,1,3,Minor (likely < $1 million)
+2015,11,6,155,West Bank and Gaza Strip,10,Middle East & North Africa,West Bank,Halhul,31.578413,35.102065,8,Unarmed Assault,4,Military,97,Israel,Palestinian Extremists,10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",1,,
+2015,11,6,4,Afghanistan,6,South Asia,Ghazni,Ghazni,33.542623,68.41533,3,Bombing/Explosion,2,Government (General),4,Afghanistan,Taliban,6,Explosives,0,,
+2015,11,6,4,Afghanistan,6,South Asia,Jawzjan,Yangi Arigh,36.734213,65.796025,2,Armed Assault,15,Religious Figures/Institutions,4,Afghanistan,Unknown,5,Firearms,1,,
+2015,11,6,113,Libya,10,Middle East & North Africa,Sirte,Sirte,31.193647,16.553884,6,Hostage Taking (Kidnapping),3,Police,113,Libya,Tripoli Province of the Islamic State,13,Unknown,0,,
+2015,11,6,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.303567,44.371771,3,Bombing/Explosion,1,Business,95,Iraq,Unknown,6,Explosives,1,,
+2015,11,5,95,Iraq,10,Middle East & North Africa,Saladin,Siniyah,34.933362,43.412551,3,Bombing/Explosion,3,Police,95,Iraq,Islamic State of Iraq and the Levant (ISIL),6,Explosives,7,,
+2015,11,6,95,Iraq,10,Middle East & North Africa,Saladin,Sayid Gharib,34.738889,44.513056,3,Bombing/Explosion,20,Unknown,95,Iraq,Unknown,6,Explosives,0,,
+2015,11,6,95,Iraq,10,Middle East & North Africa,Al Anbar,Al-Haydan,33.380456,43.916641,9,Unknown,17,Terrorists/Non-State Militia,95,Iraq,Islamic State of Iraq and the Levant (ISIL),13,Unknown,5,,
+2015,11,6,34,Burundi,11,Sub-Saharan Africa,Bujumbura Mairie,Bujumbura,-3.375828,29.364107,2,Armed Assault,1,Business,34,Burundi,Unknown,5,Firearms,9,,
+2015,11,6,4,Afghanistan,6,South Asia,Takhar,Khwaja Ghar district,37.065833,69.421111,2,Armed Assault,4,Military,4,Afghanistan,Taliban,5,Firearms,1,,
+2015,11,6,160,Philippines,5,Southeast Asia,Lanao del Sur,Matampay,8.011382,124.285289,3,Bombing/Explosion,21,Utilities,160,Philippines,Unknown,6,Explosives,0,4,Unknown
+2015,11,6,110,Lebanon,10,Middle East & North Africa,Beqaa,Arsal,34.184603,36.424013,3,Bombing/Explosion,4,Military,110,Lebanon,Unknown,6,Explosives,0,3,Minor (likely < $1 million)
+2015,11,6,229,Democratic Republic of the Congo,11,Sub-Saharan Africa,Orientale,Peke,3.816472,23.697829,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,229,Democratic Republic of the Congo,Lord's Resistance Army (LRA),5,Firearms,4,4,Unknown
+2015,11,6,229,Democratic Republic of the Congo,11,Sub-Saharan Africa,Orientale,Bondo,3.816946,23.686531,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,229,Democratic Republic of the Congo,Lord's Resistance Army (LRA),5,Firearms,0,,
+2015,11,6,229,Democratic Republic of the Congo,11,Sub-Saharan Africa,Orientale,Bondo,3.816946,23.686531,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,229,Democratic Republic of the Congo,Lord's Resistance Army (LRA),5,Firearms,0,,
+2015,11,6,92,India,6,South Asia,Bihar,Makhdumpur,25.065567,84.973952,3,Bombing/Explosion,20,Unknown,92,India,Communist Party of India - Maoist (CPI-Maoist),6,Explosives,0,,
+2015,11,6,92,India,6,South Asia,Manipur,Imphal,24.797922,93.940517,3,Bombing/Explosion,20,Unknown,92,India,Unknown,6,Explosives,0,,
+2015,11,6,60,Egypt,10,Middle East & North Africa,Al Sharqia,Abu Kabir,30.72086,31.67165,3,Bombing/Explosion,14,Private Citizens & Property,60,Egypt,Unknown,6,Explosives,3,3,Minor (likely < $1 million)
+2015,11,6,173,Saudi Arabia,10,Middle East & North Africa,Najran,Unknown,18.351466,45.600711,3,Bombing/Explosion,14,Private Citizens & Property,173,Saudi Arabia,Unknown,6,Explosives,2,3,Minor (likely < $1 million)
+2015,11,6,45,Colombia,3,South America,Bolivar,Simiti,7.957151,-73.946404,6,Hostage Taking (Kidnapping),1,Business,45,Colombia,National Liberation Army of Colombia (ELN),5,Firearms,0,,
+2015,11,6,92,India,6,South Asia,Meghalaya,North Garo Hills district,25.898183,90.487883,6,Hostage Taking (Kidnapping),3,Police,92,India,Garo National Liberation Army,5,Firearms,1,,
+2015,11,6,182,Somalia,11,Sub-Saharan Africa,Hiiraan,Beledweyne,4.73538,45.202402,2,Armed Assault,4,Military,182,Somalia,Al-Shabaab,5,Firearms,3,,
+2015,11,6,160,Philippines,5,Southeast Asia,Sarangani,Malapatan district,5.966235,125.285262,3,Bombing/Explosion,4,Military,160,Philippines,New People's Army (NPA),6,Explosives,1,,
+2015,11,6,217,United States,1,North America,California,Ingelwood,33.959535,-118.348342,8,Unarmed Assault,14,Private Citizens & Property,217,United States,Anti-Sikh extremists,9,Melee,0,,
+2015,11,6,200,Syria,10,Middle East & North Africa,Hamah,Unknown,35.188787,37.211583,3,Bombing/Explosion,10,Journalists & Media,200,Syria,Unknown,6,Explosives,2,,
+2015,11,7,153,Pakistan,6,South Asia,Balochistan,Quetta,30.20082,66.994352,2,Armed Assault,14,Private Citizens & Property,153,Pakistan,Jaish-e-Islam,5,Firearms,2,,
+2015,11,7,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.303567,44.371771,3,Bombing/Explosion,14,Private Citizens & Property,95,Iraq,Unknown,6,Explosives,2,,
+2015,11,7,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.303567,44.371771,3,Bombing/Explosion,1,Business,95,Iraq,Unknown,6,Explosives,1,,
+2015,11,7,4,Afghanistan,6,South Asia,Herat,Shindand,33.30438,62.154195,3,Bombing/Explosion,4,Military,4,Afghanistan,Unknown,6,Explosives,1,,
+2015,11,7,4,Afghanistan,6,South Asia,Herat,Shindand district,33.307049,62.136421,3,Bombing/Explosion,3,Police,4,Afghanistan,Unknown,6,Explosives,0,,
+2015,11,7,205,Thailand,5,Southeast Asia,Pattani,Rusa Milae,6.873954,101.234712,3,Bombing/Explosion,14,Private Citizens & Property,205,Thailand,Unknown,6,Explosives,0,,
+2015,11,7,205,Thailand,5,Southeast Asia,Pattani,Rusa Milae,6.873954,101.234712,3,Bombing/Explosion,1,Business,205,Thailand,Unknown,6,Explosives,0,,
+2015,11,7,205,Thailand,5,Southeast Asia,Pattani,Rusa Milae,6.873954,101.234712,3,Bombing/Explosion,14,Private Citizens & Property,205,Thailand,Unknown,6,Explosives,0,,
+2015,11,7,205,Thailand,5,Southeast Asia,Pattani,Rusa Milae,6.873954,101.234712,3,Bombing/Explosion,1,Business,205,Thailand,Unknown,6,Explosives,0,,
+2015,11,7,182,Somalia,11,Sub-Saharan Africa,Banaadir,Mogadishu,2.059818,45.326114,1,Assassination,2,Government (General),182,Somalia,Al-Shabaab,5,Firearms,1,3,Minor (likely < $1 million)
+2015,11,7,95,Iraq,10,Middle East & North Africa,Saladin,Tarmiyah,33.66969,44.381316,3,Bombing/Explosion,4,Military,95,Iraq,Islamic State of Iraq and the Levant (ISIL),6,Explosives,2,,
+2015,11,7,95,Iraq,10,Middle East & North Africa,Al Anbar,Albu Hayat,33.188242,40.042332,9,Unknown,4,Military,95,Iraq,Islamic State of Iraq and the Levant (ISIL),13,Unknown,9,,
+2015,11,7,95,Iraq,10,Middle East & North Africa,Al Anbar,Albu Ali,33.489536,43.221388,3,Bombing/Explosion,20,Unknown,95,Iraq,Unknown,6,Explosives,0,,
+2015,11,7,95,Iraq,10,Middle East & North Africa,Saladin,Mukashafah,34.36509,43.745219,9,Unknown,4,Military,95,Iraq,Islamic State of Iraq and the Levant (ISIL),13,Unknown,14,,
+2015,11,7,95,Iraq,10,Middle East & North Africa,Diyala,Husseiniyah,33.548307,44.415735,3,Bombing/Explosion,20,Unknown,95,Iraq,Unknown,6,Explosives,1,,
+2015,11,7,95,Iraq,10,Middle East & North Africa,Nineveh,Bishari,36.229574,42.236244,9,Unknown,4,Military,95,Iraq,Islamic State of Iraq and the Levant (ISIL),13,Unknown,15,,
+2015,11,7,214,Ukraine,9,Eastern Europe,Donetsk,Maiorska,48.396253,37.973327,2,Armed Assault,4,Military,214,Ukraine,Donetsk People's Republic,6,Explosives,0,,
+2015,11,7,95,Iraq,10,Middle East & North Africa,Diyala,Nahrawan,33.37576,44.702866,3,Bombing/Explosion,14,Private Citizens & Property,95,Iraq,Unknown,6,Explosives,1,,
+2015,11,7,92,India,6,South Asia,Assam,Dumduma,27.56774,95.55724,3,Bombing/Explosion,20,Unknown,92,India,Unknown,6,Explosives,0,,
+2015,11,7,198,Sweden,8,Western Europe,Vastra Gotaland,Floda,57.801285,12.364499,7,Facility/Infrastructure Attack,14,Private Citizens & Property,198,Sweden,Unknown,8,Incendiary,0,3,Minor (likely < $1 million)
+2015,11,7,153,Pakistan,6,South Asia,Khyber Pakhtunkhwa,Patwar Payan,34.07281,71.491161,7,Facility/Infrastructure Attack,1,Business,153,Pakistan,Unknown,8,Incendiary,0,3,Minor (likely < $1 million)
+2015,11,7,209,Turkey,10,Middle East & North Africa,Sirnak,Karacali,37.429183,42.883131,3,Bombing/Explosion,4,Military,209,Turkey,Kurdistan Workers' Party (PKK),6,Explosives,1,,
+2015,11,7,195,Sudan,11,Sub-Saharan Africa,North Darfur,Tawilah,13.513827,24.869076,2,Armed Assault,14,Private Citizens & Property,195,Sudan,Janjaweed,5,Firearms,0,3,Minor (likely < $1 million)
+2015,11,7,60,Egypt,10,Middle East & North Africa,Alexandria,Alexandria,31.18051,29.894987,3,Bombing/Explosion,20,Unknown,60,Egypt,Unknown,6,Explosives,0,,
+2015,11,7,202,Tajikistan,7,Central Asia,Dushanbe,Dushanbe,38.552187,68.76744,2,Armed Assault,4,Military,202,Tajikistan,Unknown,9,Melee,2,,
+2015,11,8,155,West Bank and Gaza Strip,10,Middle East & North Africa,West Bank,Tapuah,32.119818,35.2498,8,Unarmed Assault,19,Transportation,97,Israel,Palestinian Extremists,10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",1,,
+2015,11,8,155,West Bank and Gaza Strip,10,Middle East & North Africa,West Bank,Betar Illlit,31.701002,35.111925,2,Armed Assault,14,Private Citizens & Property,97,Israel,Palestinian Extremists,9,Melee,0,,
+2015,11,8,155,West Bank and Gaza Strip,10,Middle East & North Africa,West Bank,Nabi Elias,32.184819,35.016063,2,Armed Assault,14,Private Citizens & Property,97,Israel,Palestinian Extremists,9,Melee,0,,
+2015,11,8,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.303567,44.371771,3,Bombing/Explosion,14,Private Citizens & Property,95,Iraq,Unknown,6,Explosives,1,3,Minor (likely < $1 million)
+2015,11,8,95,Iraq,10,Middle East & North Africa,Al Anbar,Abu Ghraib,33.31065,44.038206,3,Bombing/Explosion,14,Private Citizens & Property,95,Iraq,Unknown,6,Explosives,1,,
+2015,11,8,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.303567,44.371771,3,Bombing/Explosion,14,Private Citizens & Property,95,Iraq,Unknown,6,Explosives,2,,
+2015,11,8,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.303567,44.371771,3,Bombing/Explosion,1,Business,95,Iraq,Unknown,6,Explosives,2,,
+2015,11,8,113,Libya,10,Middle East & North Africa,Nuqat Al Khams,Sabratha,32.780671,12.449312,6,Hostage Taking (Kidnapping),7,Government (Diplomatic),1001,Serbia,Tripoli Province of the Islamic State,5,Firearms,2,,
+2015,11,8,4,Afghanistan,6,South Asia,Ghor,Saghar district,33.583215,63.686794,2,Armed Assault,14,Private Citizens & Property,4,Afghanistan,Taliban,5,Firearms,3,,
+2015,11,8,4,Afghanistan,6,South Asia,Kunar,Marawara district,34.935129,71.272783,9,Unknown,4,Military,4,Afghanistan,Taliban,13,Unknown,6,,
+2015,11,8,4,Afghanistan,6,South Asia,Logar,Unknown,34.014639,69.191925,3,Bombing/Explosion,20,Unknown,,,Haqqani Network,6,Explosives,0,,
+2015,11,8,4,Afghanistan,6,South Asia,Nangarhar,Jalalabad,34.41712,70.449594,3,Bombing/Explosion,12,NGO,422,International,Unknown,6,Explosives,0,3,Minor (likely < $1 million)
+2015,11,8,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.303567,44.371771,3,Bombing/Explosion,14,Private Citizens & Property,95,Iraq,Islamic State of Iraq and the Levant (ISIL),6,Explosives,8,,
+2015,11,8,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.303567,44.371771,3,Bombing/Explosion,20,Unknown,95,Iraq,Unknown,6,Explosives,0,,
+2015,11,8,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.303567,44.371771,3,Bombing/Explosion,20,Unknown,95,Iraq,Unknown,6,Explosives,0,,
+2015,11,8,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.303567,44.371771,3,Bombing/Explosion,20,Unknown,95,Iraq,Unknown,6,Explosives,0,,
+2015,12,5,160,Philippines,5,Southeast Asia,Davao del Sur,Alambre,7.064167,125.468611,1,Assassination,2,Government (General),160,Philippines,New People's Army (NPA),5,Firearms,1,,
+2015,12,5,603,United Kingdom,8,Western Europe,England,London,51.504385,-0.140041,2,Armed Assault,19,Transportation,216,Great Britain,Jihadi-inspired extremists,9,Melee,0,,
+2015,12,5,209,Turkey,10,Middle East & North Africa,Sirnak,Cizre district,37.333802,42.185436,2,Armed Assault,4,Military,209,Turkey,Kurdistan Workers' Party (PKK),5,Firearms,2,,
+2015,12,5,209,Turkey,10,Middle East & North Africa,Diyarbakir,Sur district,38.059761,40.388604,2,Armed Assault,3,Police,209,Turkey,Kurdistan Workers' Party (PKK),5,Firearms,1,,
+2015,12,5,19,Bangladesh,6,South Asia,Rangpur,Rampur,25.790366,88.66665,3,Bombing/Explosion,15,Religious Figures/Institutions,19,Bangladesh,Islamic State in Bangladesh,6,Explosives,0,3,Minor (likely < $1 million)
+2015,12,5,19,Bangladesh,6,South Asia,Rajshahi,Rajshahi,24.366694,88.600189,3,Bombing/Explosion,8,Educational Institution,19,Bangladesh,Awami League,6,Explosives,0,,
+2015,12,5,182,Somalia,11,Sub-Saharan Africa,Sool,Lasanod,8.477092,47.363212,2,Armed Assault,14,Private Citizens & Property,182,Somalia,Al-Shabaab,5,Firearms,1,,
+2015,12,5,4,Afghanistan,6,South Asia,Ghazni,Waghaz district,33.412807,68.21905,3,Bombing/Explosion,20,Unknown,,,Unknown,6,Explosives,0,,
+2015,12,5,4,Afghanistan,6,South Asia,Kabul,Qarabagh district,34.84608,69.215043,3,Bombing/Explosion,4,Military,4,Afghanistan,Unknown,6,Explosives,0,,
+2015,12,5,217,United States,1,North America,New York,New York City,40.697133,-73.931352,8,Unarmed Assault,14,Private Citizens & Property,217,United States,Anti-Muslim extremists,9,Melee,0,,
+2015,12,5,1004,South Sudan,11,Sub-Saharan Africa,Imatong,Longiro,4.498611,32.298611,9,Unknown,4,Military,1004,South Sudan,South Sudan Armed Forces (SSAF),13,Unknown,0,,
+2015,12,5,14,Australia,12,Australasia & Oceania,Victoria,Norlane,-38.091417,144.357575,7,Facility/Infrastructure Attack,15,Religious Figures/Institutions,14,Australia,Unknown,8,Incendiary,0,3,Minor (likely < $1 million)
+2015,12,5,14,Australia,12,Australasia & Oceania,Victoria,Norlane,-38.094181,144.3571,7,Facility/Infrastructure Attack,15,Religious Figures/Institutions,14,Australia,Unknown,8,Incendiary,0,3,Minor (likely < $1 million)
+2015,12,6,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.303567,44.371771,3,Bombing/Explosion,14,Private Citizens & Property,95,Iraq,Unknown,6,Explosives,1,,
+2015,12,6,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.303567,44.371771,3,Bombing/Explosion,1,Business,95,Iraq,Unknown,6,Explosives,2,,
+2015,12,6,95,Iraq,10,Middle East & North Africa,Nineveh,Mosul,36.354146,43.143571,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,95,Iraq,Islamic State of Iraq and the Levant (ISIL),9,Melee,1,,
+2015,12,6,95,Iraq,10,Middle East & North Africa,Al Anbar,Fallujah,33.349159,43.784197,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,95,Iraq,Islamic State of Iraq and the Levant (ISIL),9,Melee,0,,
+2015,12,6,147,Nigeria,11,Sub-Saharan Africa,Borno,Takulashi,10.869205,12.847621,2,Armed Assault,14,Private Citizens & Property,147,Nigeria,Boko Haram,6,Explosives,0,3,Minor (likely < $1 million)
+2015,12,6,45,Colombia,3,South America,Choco,Unknown,5.252803,-76.825965,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,45,Colombia,National Liberation Army of Colombia (ELN),13,Unknown,0,,
+2015,12,6,153,Pakistan,6,South Asia,Khyber Pakhtunkhwa,Peshawar,34.006004,71.537431,3,Bombing/Explosion,1,Business,153,Pakistan,Tehrik-i-Taliban Pakistan (TTP),6,Explosives,0,3,Minor (likely < $1 million)
+2015,12,6,182,Somalia,11,Sub-Saharan Africa,Banaadir,Mogadishu,2.059818,45.326114,3,Bombing/Explosion,3,Police,182,Somalia,Unknown,6,Explosives,0,,
+2015,12,18,95,Iraq,10,Middle East & North Africa,Nineveh,Umran,36.433522,43.37275,2,Armed Assault,14,Private Citizens & Property,95,Iraq,Islamic State of Iraq and the Levant (ISIL),5,Firearms,0,,
+2015,12,18,4,Afghanistan,6,South Asia,Herat,Unknown,34.352865,62.204029,9,Unknown,3,Police,4,Afghanistan,Unknown,13,Unknown,1,,
+2015,12,18,4,Afghanistan,6,South Asia,Helmand,Washer district,32.112308,63.870718,2,Armed Assault,4,Military,4,Afghanistan,Taliban,5,Firearms,4,4,Unknown
+2015,12,18,60,Egypt,10,Middle East & North Africa,North Sinai,Rafah,31.250196,34.241281,2,Armed Assault,14,Private Citizens & Property,155,West Bank and Gaza Strip,Sinai Province of the Islamic State,5,Firearms,1,,
+2015,12,18,64,Estonia,9,Eastern Europe,Harju,Tallinn,59.388151,24.684158,3,Bombing/Explosion,14,Private Citizens & Property,64,Estonia,Unknown,6,Explosives,0,3,Minor (likely < $1 million)
+2015,12,19,160,Philippines,5,Southeast Asia,Maguindanao,Ladia,7.262213,124.308826,3,Bombing/Explosion,21,Utilities,160,Philippines,Bangsamoro Islamic Freedom Movement (BIFM),6,Explosives,0,3,Minor (likely < $1 million)
+2015,12,19,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.303567,44.371771,3,Bombing/Explosion,3,Police,95,Iraq,Unknown,6,Explosives,1,,
+2015,12,19,95,Iraq,10,Middle East & North Africa,Al Anbar,Zaidan,33.247182,44.025453,3,Bombing/Explosion,14,Private Citizens & Property,95,Iraq,Unknown,6,Explosives,1,3,Minor (likely < $1 million)
+2015,12,19,95,Iraq,10,Middle East & North Africa,Babil,Latifiyah,32.982932,44.361597,3,Bombing/Explosion,14,Private Citizens & Property,95,Iraq,Unknown,6,Explosives,2,,
+2016,1,1,92,India,6,South Asia,Punjab,Kathlore,32.244186,75.434659,2,Armed Assault,14,Private Citizens & Property,92,India,Unknown,9,Melee,1,3,Minor (likely < $1 million)
+2016,1,1,4,Afghanistan,6,South Asia,Kabul,Kabul,34.516895,69.147014,3,Bombing/Explosion,1,Business,4,Afghanistan,Taliban,6,Explosives,3,4,Unknown
+2016,1,1,209,Turkey,10,Middle East & North Africa,Sirnak,Cizre district,37.332346,42.185474,3,Bombing/Explosion,4,Military,209,Turkey,Kurdistan Workers' Party (PKK),6,Explosives,1,,
+2016,1,1,209,Turkey,10,Middle East & North Africa,Diyarbakir,Sur district,38.064584,40.381766,3,Bombing/Explosion,3,Police,209,Turkey,Kurdistan Workers' Party (PKK),6,Explosives,1,,
+2016,1,1,182,Somalia,11,Sub-Saharan Africa,Banaadir,Mogadishu,2.059818,45.326114,2,Armed Assault,3,Police,182,Somalia,Al-Shabaab,6,Explosives,3,,
+2016,1,1,182,Somalia,11,Sub-Saharan Africa,Banaadir,Mogadishu,2.059818,45.326114,2,Armed Assault,12,NGO,209,Turkey,Al-Shabaab,5,Firearms,1,,
+2016,1,1,104,Kenya,11,Sub-Saharan Africa,Lamu,Baure,-1.717706,40.966872,3,Bombing/Explosion,4,Military,104,Kenya,Al-Shabaab,6,Explosives,0,3,Minor (likely < $1 million)
+2016,1,1,69,France,8,Western Europe,Auvergne-Rhone-Alpes,Valence,44.93348,4.89236,8,Unarmed Assault,4,Military,69,France,Jihadi-inspired extremists,10,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",0,,
+2016,1,1,182,Somalia,11,Sub-Saharan Africa,Banaadir,Mogadishu,2.059818,45.326114,3,Bombing/Explosion,4,Military,182,Somalia,Al-Shabaab,6,Explosives,0,,
+2016,1,1,160,Philippines,5,Southeast Asia,Camarines Sur,Fuentebella,13.735085,123.416094,2,Armed Assault,4,Military,160,Philippines,New People's Army (NPA),5,Firearms,0,,
+2016,1,1,93,Indonesia,5,Southeast Asia,West Java,Bandung,-6.914542,107.607839,3,Bombing/Explosion,10,Journalists & Media,93,Indonesia,Unknown,6,Explosives,0,3,Minor (likely < $1 million)
+2016,1,1,228,Yemen,10,Middle East & North Africa,Abyan,Unknown,13.659076,46.030868,2,Armed Assault,4,Military,228,Yemen,Al-Qaida in the Arabian Peninsula (AQAP),5,Firearms,3,,
+2016,1,1,95,Iraq,10,Middle East & North Africa,Al Anbar,Tharthar,33.683266,43.473258,3,Bombing/Explosion,4,Military,95,Iraq,Islamic State of Iraq and the Levant (ISIL),6,Explosives,11,,
+2016,1,1,95,Iraq,10,Middle East & North Africa,Al Anbar,Ramadi,33.420949,43.295662,3,Bombing/Explosion,14,Private Citizens & Property,95,Iraq,Unknown,6,Explosives,16,,
+2016,1,1,34,Burundi,11,Sub-Saharan Africa,Bujumbura Mairie,Bujumbura,-3.375828,29.364107,2,Armed Assault,3,Police,34,Burundi,Unknown,6,Explosives,1,,
+2016,1,1,34,Burundi,11,Sub-Saharan Africa,Bujumbura Mairie,Bujumbura,-3.375828,29.364107,2,Armed Assault,3,Police,34,Burundi,Unknown,6,Explosives,2,,
+2016,1,1,19,Bangladesh,6,South Asia,Khulna,Bagerhat,22.655452,89.766153,7,Facility/Infrastructure Attack,22,Violent Political Party,19,Bangladesh,Unknown,8,Incendiary,0,3,Minor (likely < $1 million)
+2016,1,1,4,Afghanistan,6,South Asia,Farah,Farah,32.37001,62.128458,6,Hostage Taking (Kidnapping),2,Government (General),4,Afghanistan,Taliban,5,Firearms,2,,
+2016,1,1,153,Pakistan,6,South Asia,Khyber Pakhtunkhwa,Charsadda,34.146579,71.743538,2,Armed Assault,8,Educational Institution,153,Pakistan,Unknown,5,Firearms,0,,
+2016,1,1,205,Thailand,5,Southeast Asia,Pattani,Mayo,6.719201,101.417104,3,Bombing/Explosion,1,Business,205,Thailand,Unknown,6,Explosives,0,3,Minor (likely < $1 million)
+2016,1,1,173,Saudi Arabia,10,Middle East & North Africa,Asir,Abha,18.223462,42.526052,3,Bombing/Explosion,14,Private Citizens & Property,173,Saudi Arabia,Unknown,6,Explosives,0,,
+2016,1,1,97,Israel,10,Middle East & North Africa,Tel Aviv,Tel Aviv,32.08297,34.811886,2,Armed Assault,1,Business,97,Israel,Unknown,5,Firearms,2,,
+2016,1,1,195,Sudan,11,Sub-Saharan Africa,South Kordofan,Abbasiya,12.167309,31.303206,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,195,Sudan,Janjaweed,5,Firearms,6,3,Minor (likely < $1 million)
+2016,1,3,182,Somalia,11,Sub-Saharan Africa,Banaadir,Mogadishu,2.059818,45.326114,1,Assassination,2,Government (General),182,Somalia,Unknown,5,Firearms,0,,
+2016,1,1,92,India,6,South Asia,Bihar,Chirand,25.740541,84.824858,3,Bombing/Explosion,1,Business,92,India,Communist Party of India - Maoist (CPI-Maoist),6,Explosives,0,4,Unknown
+2016,1,1,92,India,6,South Asia,Bihar,Chirand,25.740541,84.824858,3,Bombing/Explosion,1,Business,92,India,Communist Party of India - Maoist (CPI-Maoist),6,Explosives,0,,
+2016,1,1,92,India,6,South Asia,Assam,Gairong,26.033251,90.664969,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,92,India,United Liberation Front of Assam (ULFA),13,Unknown,0,,
+2016,1,1,153,Pakistan,6,South Asia,Punjab,Makkuana,31.386967,73.19986,2,Armed Assault,3,Police,153,Pakistan,Unknown,5,Firearms,0,3,Minor (likely < $1 million)
+2016,1,2,160,Philippines,5,Southeast Asia,Surigao del Sur,Bislig,8.183063,126.350176,1,Assassination,2,Government (General),160,Philippines,Unknown,5,Firearms,1,,
+2016,1,2,95,Iraq,10,Middle East & North Africa,Babil,Latifiyah,32.982932,44.361597,3,Bombing/Explosion,4,Military,95,Iraq,Unknown,6,Explosives,1,,
+2016,1,2,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.303567,44.371771,3,Bombing/Explosion,14,Private Citizens & Property,95,Iraq,Unknown,6,Explosives,1,,
+2016,1,2,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.303567,44.371771,3,Bombing/Explosion,14,Private Citizens & Property,95,Iraq,Unknown,6,Explosives,2,,
+2016,1,2,95,Iraq,10,Middle East & North Africa,Al Anbar,Ramadi,33.420949,43.295662,3,Bombing/Explosion,10,Journalists & Media,95,Iraq,Unknown,6,Explosives,0,,
+2016,1,2,92,India,6,South Asia,Punjab,Pathankot,32.264338,75.642112,3,Bombing/Explosion,4,Military,92,India,United Jihad Council,6,Explosives,12,4,Unknown
+2016,1,2,182,Somalia,11,Sub-Saharan Africa,Banaadir,Mogadishu,2.059818,45.326114,3,Bombing/Explosion,1,Business,182,Somalia,Al-Shabaab,6,Explosives,4,3,Minor (likely < $1 million)
+2016,1,2,92,India,6,South Asia,Meghalaya,Mandangre,25.330177,90.56345,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,92,India,Achik Songna An'pachakgipa Kotok (ASAK),5,Firearms,0,3,Minor (likely < $1 million)
+2016,1,2,160,Philippines,5,Southeast Asia,Maguindanao,Datu Salibo district,7.018486,124.473881,2,Armed Assault,4,Military,160,Philippines,Unknown,5,Firearms,1,,
+2016,1,2,95,Iraq,10,Middle East & North Africa,Saladin,Taji,33.540671,44.251268,3,Bombing/Explosion,20,Unknown,95,Iraq,Unknown,6,Explosives,0,,
+2016,1,2,95,Iraq,10,Middle East & North Africa,Nineveh,Qayyarah,35.798129,43.294178,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,95,Iraq,Islamic State of Iraq and the Levant (ISIL),13,Unknown,83,,
+2016,1,2,95,Iraq,10,Middle East & North Africa,Al Anbar,Fallujah,33.349159,43.784197,3,Bombing/Explosion,4,Military,95,Iraq,Islamic State of Iraq and the Levant (ISIL),6,Explosives,8,,
+2016,1,2,95,Iraq,10,Middle East & North Africa,Al Anbar,Ramadi,33.420949,43.295662,3,Bombing/Explosion,4,Military,95,Iraq,Unknown,6,Explosives,4,3,Minor (likely < $1 million)
+2016,1,2,92,India,6,South Asia,Chhattisgarh,Attamipara,18.493249,81.30689,3,Bombing/Explosion,20,Unknown,92,India,Unknown,6,Explosives,0,,
+2016,1,2,228,Yemen,10,Middle East & North Africa,Taizz,Taizz,13.586484,44.024105,3,Bombing/Explosion,14,Private Citizens & Property,228,Yemen,Unknown,6,Explosives,0,,
+2016,1,2,113,Libya,10,Middle East & North Africa,Benghazi,Benghazi,32.069287,20.151145,9,Unknown,4,Military,113,Libya,Barqa Province of the Islamic State,13,Unknown,2,,
+2016,1,2,195,Sudan,11,Sub-Saharan Africa,South Kordofan,Mazlagan,11.957352,31.031789,9,Unknown,4,Military,195,Sudan,Sudan People's Liberation Movement - North,13,Unknown,14,,
+2016,1,2,4,Afghanistan,6,South Asia,Kunar,Shultan,34.973533,71.345586,2,Armed Assault,4,Military,4,Afghanistan,Unknown,5,Firearms,3,,
+2016,1,2,4,Afghanistan,6,South Asia,Herat,Zer-e-Koh,33.302887,62.158967,3,Bombing/Explosion,20,Unknown,,,Unknown,6,Explosives,4,,
+2016,1,2,4,Afghanistan,6,South Asia,Helmand,Kajaki district,32.447202,65.057528,3,Bombing/Explosion,20,Unknown,,,Unknown,6,Explosives,4,,
+2016,1,2,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.303567,44.371771,3,Bombing/Explosion,7,Government (Diplomatic),217,United States,Unknown,6,Explosives,0,,
+2016,1,2,153,Pakistan,6,South Asia,Khyber Pakhtunkhwa,Kohat,33.590602,71.440619,3,Bombing/Explosion,19,Transportation,153,Pakistan,Unknown,6,Explosives,6,3,Minor (likely < $1 million)
+2016,1,2,603,United Kingdom,8,Western Europe,Northern Ireland,Banbridge,54.356102,-6.276561,7,Facility/Infrastructure Attack,14,Private Citizens & Property,233,Northern Ireland,Unknown,8,Incendiary,0,3,Minor (likely < $1 million)
+2016,1,2,217,United States,1,North America,Oregon,Princeton,43.265841,-118.844083,7,Facility/Infrastructure Attack,2,Government (General),217,United States,Citizens for Constitutional Freedom,5,Firearms,0,,
+2016,1,3,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.303567,44.371771,3,Bombing/Explosion,19,Transportation,95,Iraq,Unknown,6,Explosives,1,3,Minor (likely < $1 million)
+2016,1,3,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.303567,44.371771,3,Bombing/Explosion,1,Business,95,Iraq,Unknown,6,Explosives,1,,
+2016,1,3,95,Iraq,10,Middle East & North Africa,Saladin,Saba al-Bor,33.460821,44.157432,3,Bombing/Explosion,14,Private Citizens & Property,95,Iraq,Unknown,6,Explosives,2,,
+2016,1,3,95,Iraq,10,Middle East & North Africa,Saladin,Tikrit,34.675551,43.550642,3,Bombing/Explosion,3,Police,95,Iraq,Islamic State of Iraq and the Levant (ISIL),6,Explosives,11,,
+2016,1,3,95,Iraq,10,Middle East & North Africa,Babil,Hillah,32.469239,44.416638,3,Bombing/Explosion,15,Religious Figures/Institutions,95,Iraq,Islamic State of Iraq and the Levant (ISIL),6,Explosives,0,3,Minor (likely < $1 million)
+2016,1,3,95,Iraq,10,Middle East & North Africa,Babil,Sinjar,32.531145,44.411396,3,Bombing/Explosion,15,Religious Figures/Institutions,95,Iraq,Islamic State of Iraq and the Levant (ISIL),6,Explosives,0,3,Minor (likely < $1 million)
+2016,1,3,95,Iraq,10,Middle East & North Africa,Babil,Iskandariyah,32.887157,44.341636,3,Bombing/Explosion,15,Religious Figures/Institutions,95,Iraq,Islamic State of Iraq and the Levant (ISIL),6,Explosives,0,3,Minor (likely < $1 million)
+2016,1,3,4,Afghanistan,6,South Asia,Balkh,Mazari Sharif,36.70993,67.115696,2,Armed Assault,7,Government (Diplomatic),92,India,Jaish-e-Mohammad (JeM),6,Explosives,7,,
+2016,1,3,153,Pakistan,6,South Asia,Khyber Pakhtunkhwa,Peshawar,34.030549,71.664907,3,Bombing/Explosion,4,Military,153,Pakistan,Tehrik-i-Taliban Pakistan (TTP),6,Explosives,0,3,Minor (likely < $1 million)
+2016,1,3,153,Pakistan,6,South Asia,Balochistan,Quetta,30.20082,66.994352,3,Bombing/Explosion,20,Unknown,153,Pakistan,Unknown,6,Explosives,0,,
+2016,1,3,153,Pakistan,6,South Asia,Balochistan,Gomazai,26.134385,62.296852,3,Bombing/Explosion,14,Private Citizens & Property,153,Pakistan,Unknown,6,Explosives,1,3,Minor (likely < $1 million)
+2016,1,3,182,Somalia,11,Sub-Saharan Africa,Galguduud,Ceelshiil,4.685335,46.622317,2,Armed Assault,14,Private Citizens & Property,182,Somalia,Al-Shabaab,5,Firearms,1,3,Minor (likely < $1 million)
+2016,1,3,95,Iraq,10,Middle East & North Africa,Al Anbar,Hayy al-Jamiah,33.055448,43.714248,3,Bombing/Explosion,4,Military,95,Iraq,Islamic State of Iraq and the Levant (ISIL),6,Explosives,9,,
+2016,1,3,95,Iraq,10,Middle East & North Africa,Al Anbar,Hadithah district,34.266661,42.528929,3,Bombing/Explosion,14,Private Citizens & Property,95,Iraq,Islamic State of Iraq and the Levant (ISIL),6,Explosives,13,,
+2016,1,3,95,Iraq,10,Middle East & North Africa,Saladin,Munshaat al-Muthanna,34.533753,43.483738,2,Armed Assault,14,Private Citizens & Property,95,Iraq,Islamic State of Iraq and the Levant (ISIL),5,Firearms,0,,
+2016,1,3,95,Iraq,10,Middle East & North Africa,Al Anbar,Tharthar,33.683266,43.473258,2,Armed Assault,9,Food or Water Supply,95,Iraq,Islamic State of Iraq and the Levant (ISIL),5,Firearms,0,,
+2016,1,3,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.303567,44.371771,3,Bombing/Explosion,14,Private Citizens & Property,95,Iraq,Islamic State of Iraq and the Levant (ISIL),6,Explosives,1,,
+2016,1,3,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.303567,44.371771,3,Bombing/Explosion,14,Private Citizens & Property,95,Iraq,Unknown,6,Explosives,2,,
+2016,1,3,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.303567,44.371771,3,Bombing/Explosion,2,Government (General),95,Iraq,Unknown,6,Explosives,1,3,Minor (likely < $1 million)
+2016,1,3,95,Iraq,10,Middle East & North Africa,Nineveh,Mosul,36.354146,43.143571,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,95,Iraq,Islamic State of Iraq and the Levant (ISIL),5,Firearms,18,,
+2016,1,3,95,Iraq,10,Middle East & North Africa,Nineveh,Tal Masud,36.229574,42.236244,2,Armed Assault,14,Private Citizens & Property,95,Iraq,Islamic State of Iraq and the Levant (ISIL),5,Firearms,3,,
+2016,1,3,155,West Bank and Gaza Strip,10,Middle East & North Africa,West Bank,Hebron,31.530243,35.094162,2,Armed Assault,4,Military,97,Israel,Palestinian Extremists,5,Firearms,0,,
+2016,1,3,155,West Bank and Gaza Strip,10,Middle East & North Africa,West Bank,Hakvasim,31.532587,35.099625,2,Armed Assault,4,Military,97,Israel,Palestinian Extremists,5,Firearms,0,,
+2016,1,3,155,West Bank and Gaza Strip,10,Middle East & North Africa,West Bank,Jerusalem,31.784837,35.224613,2,Armed Assault,14,Private Citizens & Property,97,Israel,Palestinian Extremists,9,Melee,0,,
+2016,1,3,209,Turkey,10,Middle East & North Africa,Diyarbakir,Sur district,38.059761,40.388604,3,Bombing/Explosion,4,Military,209,Turkey,Kurdistan Workers' Party (PKK),6,Explosives,1,,
+2016,1,3,92,India,6,South Asia,Odisha,Sirigiri,20.503291,82.604501,7,Facility/Infrastructure Attack,1,Business,92,India,Maoists,8,Incendiary,0,4,Unknown
+2016,1,3,147,Nigeria,11,Sub-Saharan Africa,Nasarawa,Okpaya,7.967393,8.054414,2,Armed Assault,14,Private Citizens & Property,147,Nigeria,Fulani extremists,5,Firearms,5,3,Minor (likely < $1 million)
+2016,1,3,147,Nigeria,11,Sub-Saharan Africa,Nasarawa,Udeni Ruwa,8.547828,7.7119,2,Armed Assault,14,Private Citizens & Property,147,Nigeria,Fulani extremists,5,Firearms,3,,
+2016,1,3,153,Pakistan,6,South Asia,Federally Administered Tribal Areas,Loey Shalman,34.094312,71.145726,3,Bombing/Explosion,20,Unknown,153,Pakistan,Unknown,6,Explosives,0,,
+2016,1,3,92,India,6,South Asia,Bihar,Aurangabad district,24.745719,84.380489,9,Unknown,2,Government (General),92,India,Communist Party of India - Maoist (CPI-Maoist),13,Unknown,0,,
+2016,1,3,186,Sri Lanka,6,South Asia,Western,Kurana,7.19522,79.860072,3,Bombing/Explosion,14,Private Citizens & Property,186,Sri Lanka,Unknown,6,Explosives,0,3,Minor (likely < $1 million)
+2016,1,3,95,Iraq,10,Middle East & North Africa,Babil,Yusufiyah,33.07835,44.254721,3,Bombing/Explosion,17,Terrorists/Non-State Militia,95,Iraq,Islamic State of Iraq and the Levant (ISIL),6,Explosives,0,,
+2016,1,3,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.303567,44.371771,3,Bombing/Explosion,7,Government (Diplomatic),173,Saudi Arabia,Harakat al-Nujaba,6,Explosives,0,3,Minor (likely < $1 million)
+2016,1,3,209,Turkey,10,Middle East & North Africa,Diyarbakir,Sur district,38.064584,40.381766,3,Bombing/Explosion,14,Private Citizens & Property,209,Turkey,Unknown,6,Explosives,1,3,Minor (likely < $1 million)
+2016,1,3,4,Afghanistan,6,South Asia,Helmand,Sangin district,32.221795,65.081911,3,Bombing/Explosion,21,Utilities,4,Afghanistan,Taliban,6,Explosives,0,4,Unknown
+2016,1,3,160,Philippines,5,Southeast Asia,Basilan,Ungkaya Pukan,6.582303,122.179241,6,Hostage Taking (Kidnapping),19,Transportation,160,Philippines,Abu Sayyaf Group (ASG),5,Firearms,0,3,Minor (likely < $1 million)
+2016,1,3,228,Yemen,10,Middle East & North Africa,Adan,Aden,12.849085,45.037275,1,Assassination,4,Military,228,Yemen,Al-Qaida in the Arabian Peninsula (AQAP),13,Unknown,1,,
+2015,12,31,92,India,6,South Asia,Manipur,Kalapahar,25.111981,93.955078,6,Hostage Taking (Kidnapping),14,Private Citizens & Property,92,India,Kuki Tribal Militants,5,Firearms,0,3,Minor (likely < $1 million)
+2016,1,3,182,Somalia,11,Sub-Saharan Africa,Galguduud,CeelShiil,4.649988,46.544292,2,Armed Assault,14,Private Citizens & Property,182,Somalia,Al-Shabaab,5,Firearms,1,,
+2016,1,3,209,Turkey,10,Middle East & North Africa,Sirnak,Silopi district,37.2487,42.4713,2,Armed Assault,14,Private Citizens & Property,209,Turkey,Kurdistan Workers' Party (PKK),5,Firearms,1,,
+2016,1,4,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.303567,44.371771,3,Bombing/Explosion,14,Private Citizens & Property,95,Iraq,Unknown,6,Explosives,2,,
+2016,1,4,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.303567,44.371771,3,Bombing/Explosion,14,Private Citizens & Property,95,Iraq,Unknown,6,Explosives,1,,
+2016,1,4,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.303567,44.371771,3,Bombing/Explosion,14,Private Citizens & Property,95,Iraq,Unknown,6,Explosives,1,,
+2016,1,4,4,Afghanistan,6,South Asia,Kabul,Kabul,34.516895,69.147014,3,Bombing/Explosion,3,Police,4,Afghanistan,Taliban,6,Explosives,1,,
+2016,1,4,4,Afghanistan,6,South Asia,Kabul,Kabul,34.516895,69.147014,3,Bombing/Explosion,7,Government (Diplomatic),217,United States,Taliban,6,Explosives,1,3,Minor (likely < $1 million)
+2016,1,3,153,Pakistan,6,South Asia,Khyber Pakhtunkhwa,Par Hoti,34.20059,72.048437,3,Bombing/Explosion,3,Police,153,Pakistan,Unknown,6,Explosives,0,3,Minor (likely < $1 million)
+2016,1,4,153,Pakistan,6,South Asia,Balochistan,Quetta,30.20082,66.994352,2,Armed Assault,3,Police,153,Pakistan,Unknown,5,Firearms,2,,
+2016,1,4,113,Libya,10,Middle East & North Africa,Sirte,Sidra,30.627208,18.338197,3,Bombing/Explosion,3,Police,113,Libya,Tripoli Province of the Islamic State,6,Explosives,7,3,Minor (likely < $1 million)
+2016,1,4,113,Libya,10,Middle East & North Africa,Sirte,Ras Lanuf,30.491794,18.54712,2,Armed Assault,3,Police,113,Libya,Tripoli Province of the Islamic State,6,Explosives,0,3,Minor (likely < $1 million)
+2016,1,4,4,Afghanistan,6,South Asia,Samangan,Abyak,36.266935,68.019693,1,Assassination,2,Government (General),4,Afghanistan,Taliban,5,Firearms,1,,
+2016,1,3,4,Afghanistan,6,South Asia,Helmand,Sangin district,32.071931,64.838837,3,Bombing/Explosion,2,Government (General),4,Afghanistan,Unknown,6,Explosives,1,,
+2016,1,4,182,Somalia,11,Sub-Saharan Africa,Lower Shebelle,War Maxan,2.398135,45.018703,3,Bombing/Explosion,3,Police,182,Somalia,Al-Shabaab,6,Explosives,4,,
+2016,1,4,182,Somalia,11,Sub-Saharan Africa,Bay,Leego,2.71581,44.511845,3,Bombing/Explosion,4,Military,422,International,Unknown,6,Explosives,0,,
+2016,1,4,4,Afghanistan,6,South Asia,Nangarhar,Farm Chahar,34.262694,70.707774,2,Armed Assault,3,Police,4,Afghanistan,Khorasan Chapter of the Islamic State,5,Firearms,15,,
+2016,1,4,60,Egypt,10,Middle East & North Africa,North Sinai,Arish,31.126646,33.800864,3,Bombing/Explosion,20,Unknown,60,Egypt,Unknown,6,Explosives,0,,
+2016,1,4,60,Egypt,10,Middle East & North Africa,North Sinai,Sheikh Zuweid,31.212225,34.117064,3,Bombing/Explosion,20,Unknown,60,Egypt,Unknown,6,Explosives,0,,
+2016,1,4,60,Egypt,10,Middle East & North Africa,North Sinai,Rafah,31.250196,34.241281,3,Bombing/Explosion,20,Unknown,60,Egypt,Unknown,6,Explosives,0,,
+2016,1,4,34,Burundi,11,Sub-Saharan Africa,Bujumbura Mairie,Bujumbura,-3.375828,29.364107,3,Bombing/Explosion,15,Religious Figures/Institutions,34,Burundi,Unknown,6,Explosives,0,,
+2016,1,4,34,Burundi,11,Sub-Saharan Africa,Bujumbura Mairie,Bujumbura,-3.375828,29.364107,3,Bombing/Explosion,14,Private Citizens & Property,34,Burundi,Unknown,6,Explosives,0,,
+2016,1,4,153,Pakistan,6,South Asia,Punjab,Lahore,31.50547,74.342879,3,Bombing/Explosion,20,Unknown,153,Pakistan,Unknown,6,Explosives,0,,
+2016,1,4,228,Yemen,10,Middle East & North Africa,Marib,Marib,15.45639,45.324871,3,Bombing/Explosion,14,Private Citizens & Property,228,Yemen,Unknown,6,Explosives,2,,
+2016,1,4,97,Israel,10,Middle East & North Africa,Jerusalem,Jerusalem,31.7716,35.203401,2,Armed Assault,14,Private Citizens & Property,97,Israel,Palestinian Extremists,9,Melee,0,,
+2016,1,4,97,Israel,10,Middle East & North Africa,Golan Heights,Hor Dov,33.291511,35.723403,3,Bombing/Explosion,4,Military,97,Israel,Hezbollah,6,Explosives,0,4,Unknown
+2016,1,4,209,Turkey,10,Middle East & North Africa,Diyarbakir,Sur district,38.064584,40.381766,2,Armed Assault,3,Police,209,Turkey,Kurdistan Workers' Party (PKK),5,Firearms,1,,
+2016,1,4,92,India,6,South Asia,Chhattisgarh,Aranpur,18.496251,81.294553,3,Bombing/Explosion,4,Military,92,India,Maoists,6,Explosives,0,,
+2016,1,5,147,Nigeria,11,Sub-Saharan Africa,Borno,Izgeki,11.00121,13.328747,3,Bombing/Explosion,14,Private Citizens & Property,147,Nigeria,Boko Haram,6,Explosives,9,,
+2016,1,4,147,Nigeria,11,Sub-Saharan Africa,Borno,Toshia,10.86919,12.847792,7,Facility/Infrastructure Attack,14,Private Citizens & Property,147,Nigeria,Boko Haram,8,Incendiary,0,3,Minor (likely < $1 million)
+2016,1,4,182,Somalia,11,Sub-Saharan Africa,Banaadir,Mogadishu,2.059818,45.326114,2,Armed Assault,14,Private Citizens & Property,209,Turkey,Unknown,5,Firearms,1,,
+2016,1,4,173,Saudi Arabia,10,Middle East & North Africa,Eastern,Awamiyah,26.587351,49.984146,2,Armed Assault,3,Police,173,Saudi Arabia,Unknown,5,Firearms,1,,
+2016,1,4,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.303567,44.371771,3,Bombing/Explosion,14,Private Citizens & Property,95,Iraq,Unknown,6,Explosives,2,,
+2016,1,4,92,India,6,South Asia,Meghalaya,Nangapa,25.651417,90.60741,6,Hostage Taking (Kidnapping),1,Business,92,India,Garo National Liberation Army,5,Firearms,1,,
+2016,1,4,95,Iraq,10,Middle East & North Africa,Al Anbar,Hadithah,34.160588,42.37254,3,Bombing/Explosion,4,Military,95,Iraq,Islamic State of Iraq and the Levant (ISIL),6,Explosives,112,,
+2016,1,4,95,Iraq,10,Middle East & North Africa,Babil,Iskandariyah,32.887157,44.341636,2,Armed Assault,15,Religious Figures/Institutions,95,Iraq,Unknown,5,Firearms,1,,
+2016,1,4,60,Egypt,10,Middle East & North Africa,North Sinai,Arish,31.126646,33.800864,3,Bombing/Explosion,4,Military,60,Egypt,Sinai Province of the Islamic State,6,Explosives,0,3,Minor (likely < $1 million)
+2016,1,4,75,Germany,8,Western Europe,Hesse,Dreieich,50.029388,8.694832,2,Armed Assault,14,Private Citizens & Property,,,Unknown,5,Firearms,0,3,Minor (likely < $1 million)
+2016,1,4,213,Uganda,11,Sub-Saharan Africa,Northern,Gulu,2.779159,32.298282,3,Bombing/Explosion,20,Unknown,213,Uganda,Al-Shabaab,6,Explosives,0,,
